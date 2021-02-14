@@ -1,4 +1,4 @@
-<h1> Title <h1>
+<h1 align="center">Title <br> <h2 align="center"> Hotel Booking Landing Page </h2> <h1>
 
 
 ### Description :point_down:
