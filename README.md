@@ -1,6 +1,5 @@
-<h1 align="center">Title <br> <h2 align="center"> Hotel Booking Landing Page </h2> <h1>
-
-
+<h1 align="center">Title <br> <h2 align="center"> Hotel Booking Landing Page :hotel: </h2> <h1>
+ 
 ### Description :point_down:
 In this project i've create a booking landing page for improve my skill of HTML and CSS with Flexbox positioning!
 
@@ -15,7 +14,7 @@ In this project i've create a booking landing page for improve my skill of HTML 
 - Learn how to position every element in a best way, using flexbox (i love it).
 - Learn how to use Toggl, Figma, Trello and Github.
 
-### Tool :wrench:
+### Tools :wrench:
 Figma, Trello, Toggl.
 
 ### Tecnologies  :computer:
