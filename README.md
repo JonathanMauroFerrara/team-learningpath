@@ -25,5 +25,5 @@ HTML, CSS.
 - Include SASS pre-proccessor 
 - Use Webpack as bundler for SASS
  
-Deploy Link 
+### Deploy Link 
 [Hotel Boking](https://fervent-banach-7e7adb.netlify.app/)
